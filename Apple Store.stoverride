@@ -1,10 +1,1 @@
-name: AppStore限免APP
-desc: 限免App面板。在appCount=后面填上想要显示的条数 不填默认8条
-tiles:
-  - name: AppStorexianmianAPP
-    icon: 'applelogo'
-    backgroundColor: '#b8b8b8'
-    argument: 'appCount='
-script-providers:
-  AppStorexianmianAPP:
-    url: https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/appsdoor.js
+
